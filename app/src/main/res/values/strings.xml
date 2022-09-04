@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LatTop2Ch3</string>
+    <string name="judul">Kalkulator BMI</string>
+    <string name="umur">Umur :</string>
+    <string name="tinggi_badan">Tinggi Badan :</string>
+    <string name="ex_10">ex. 10</string>
+    <string name="ex_168">ex. 168</string>
+    <string name="berat_badan">Berat Badan :</string>
+    <string name="ex_50">ex. 50</string>
+    <string name="button_hitung_intent">Button Hitung Intent</string>
+    <string name="reset">Reset</string>
+    <string name="button_hitung_bundle">Button Hitung Bundle</string>
+    <string name="button_hitung_serializable">Button Hitung Serializable</string>
+    <string name="button_hitung_parcelable">Button Hitung Parcelable</string>
+    <string name="result">Result</string>
+    <string name="result_umur">result_umur</string>
+    <string name="result_tb">result_tb</string>
+    <string name="bmi_anda">BMI anda :</string>
+    <string name="kategori">Kategori :</string>
+    <string name="kategori_res">kategori</string>
+    <string name="result_bb">result_bb</string>
+</resources>
